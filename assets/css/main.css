@@ -1,7 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
-.iframe-container {
+/* .iframe-container {
 	overflow: hidden;
 	padding-top: 56.25%;
 	position: relative;
@@ -14,7 +14,7 @@
 	 position: absolute;
 	 top: 0;
 	 width: 100%;
-  }
+  } */
 
   .video-responsive{
     overflow:hidden;
